@@ -114,3 +114,4 @@ namespace "test" do
 end
 
 task "test" => [ "test:core" ]
+
